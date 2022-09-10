@@ -1,0 +1,94 @@
+h1 {
+    font-size: 100px;
+    color: purple;
+     padding-top: 0;
+     background:#e2d1e2a8;
+    
+}
+
+p{
+    font-size: 80px;
+    color: purple;
+    margin-top: 20px;
+    background:#e2d1e2a8;
+
+}
+
+body{
+    background-image: url(images/abstract-colorful-circles-background-vector-14301875.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+.image{
+    position: fixed;
+    top: 50;
+    left: 0;
+    width:100vw;
+    height: 100vh;
+    display: none;
+    justify-content: center;
+    align-items: center
+    
+    
+}
+
+.button{
+    background-color: purple;
+    color:white;
+    padding: 8px 24px;
+    transition: all 2s;
+    text-shadow: 1px 2px rgba(0,0,0,.6);
+    text-align: center;
+    
+    
+
+}
+.button:hover{
+   transform: scale(1.1);
+
+}
+
+
+.list-items{
+    background:#e2d1e2a8;
+    opacity: 50%;
+}
+
+/*div.first {  // trying to change the opacity of the images and background so you can see the list better
+  opacity: 0.1;
+}
+
+div.second {
+  opacity: 0.3;
+}
+
+div.third {
+  opacity: 0.6;
+}
+
+.her{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+&::before{
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-image: url(https://www.vectorstock.com/royalty-free-vector/abstract-colorful-circles-background-vector-14301875);
+    background-size: cover;
+    background-position: top center;
+    opacity: 0.25;
+}*/
