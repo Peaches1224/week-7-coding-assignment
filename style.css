@@ -2,18 +2,23 @@ h1 {
     font-size: 100px;
     color: purple;
      padding-top: 0;
-     background:#e2d1e2a8;
+    
     
 }
 
-p{
+ p{
     font-size: 80px;
     color: purple;
     margin-top: 20px;
-    background:#e2d1e2a8;
-
+   
 }
 
+li{
+    font-size: 16px;
+    color: purple;
+    margin-top: 20px;
+    background:#e2d1e2a8;
+}
 body{
     background-image: url(images/abstract-colorful-circles-background-vector-14301875.jpg);
     background-size: cover;
